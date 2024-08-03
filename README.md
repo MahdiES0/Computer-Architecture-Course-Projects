@@ -1,5 +1,4 @@
 # Computer-Architecture-Course-Projects
-# Computer Architecture Course Projects
 
 ## Intro
 Projects for the computer architecture course at Tehran University.
