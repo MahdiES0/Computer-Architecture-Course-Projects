@@ -32,8 +32,3 @@ Supported commands:
 ### RISC-V Assets
 - **assembly**: Assembly code of RISC-V.
 - **controller and datapath**: General design of RISC-V.
-- **memory**: `data.mem` which shows the data storage and `instructions.mem` which have the instructions that our processor will execute. Note that for Multi-Cycles, as shown in its datapath, data memory and instruction memory are not apart so they are in `data.mem`.
-- **utils**: Some utility functions.
-- **assembler**: In this folder, you can find a link to an online assembler and also an assembler that we designed for our processor. If you are familiar with Python, just run this:
-  ```bash
-  python main.py
