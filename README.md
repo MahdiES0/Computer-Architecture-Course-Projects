@@ -31,3 +31,8 @@ Supported commands:
 ### RISC-V Assets
 - **assembly**: Assembly code of RISC-V.
 - **controller and datapath**: General design of RISC-V.
+
+## Contributers:
+[Mohammad Mahdi Ebrahim Soltani](https://github.com/MahdiES0)
+
+[Mobina Haghizadeh](https://github.com/mobinahz)
